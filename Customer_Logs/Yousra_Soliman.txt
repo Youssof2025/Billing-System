@@ -1,8 +1,0 @@
-Address          : KSA, THUWAL
-Phone Number     : 0558174189
-Current Balance  : 2304.00
-Needed To Pay    : 1253.00
-New Balance      : 1051.00
-Overdue By       : False
-Date Paid        : 27.12.2020 13:11
-

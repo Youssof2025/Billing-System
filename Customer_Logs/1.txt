@@ -1,8 +1,0 @@
-Address          : 1
-Phone Number     : 1
-Current Balance  : 1.00
-Needed To Pay    : 1.00
-New Balance      : 0.00
-Overdue By       : False
-Date Paid        : 24.12.2020 18:17
-
