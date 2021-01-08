@@ -1,0 +1,8 @@
+Address          : KSA, THUWAL
+Phone Number     : +9660558174189
+Current Balance  : 237.00
+Needed To Pay    : 123.00
+New Balance      : 114.00
+Overdue By       : False
+Date Paid        : 26.12.2020 21:14
+
